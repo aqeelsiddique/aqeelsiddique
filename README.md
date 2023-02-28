@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeelsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="aqeelsiddique" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aqeelsiddique&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGSri30%2FGSri30&psig=AOvVaw2uEqTeofY1LJDnI2jo89ob&ust=1677692336805000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPistZDhuP0CFQAAAAAdAAAAABAh)" alt="aqeelsiddique" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://aqeelsiddique.github.io/I-MAQEEL.github.io/](https://aqeelsiddique.github.io/I-MAQEEL.github.io/)
 
